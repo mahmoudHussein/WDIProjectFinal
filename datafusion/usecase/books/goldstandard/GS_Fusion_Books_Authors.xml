@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Books xsi:noNamespaceSchemaLocation="file:///D:/STUDY_GERMANY/3%20SEMESTER/Web%20data%20integration/PROJECT%20WDI/TargetSchemaBooks.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Book>
+    <Id>FreiburgBooks_14446+GoodReadsBooks_3966</Id>
+    <ISBN provenance="GoodReadsBooks_3966">325130058X</ISBN>
+    <Book_Name provenance="GoodReadsBooks_3966">hühnerherbst: ein gonzo krimi</Book_Name>
+    <Publication_Date provenance="FreiburgBooks_14446">1998</Publication_Date>
+    <Publisher provenance="">haffmans verlag</Publisher>
+    <Publication_Country provenance=""/>
+    <Pages provenance=""/>
+    <Genre provenance=""/>
+    <Rating provenance="">0.0</Rating>
+    <Authors provenanec="FreiburgBooks_14446+GoodReadsBooks_3966">
+			
+      <Author>
+        <Name>H. P Karr</Name>
+        <Birth_Name>Howard Phillips Lovecraft</Birth_Name>
+		<Birth_Date>1890-08-20</Birth_Date>
+		<Birth_Place>Providence, Rhode Island</Birth_Place>
+		<Occupation>Short-story writer, editor, novelist, poet</Occupation>
+		<Writing_Genre>Biography, Essay, Fantasy, Fantasy literature, Flash fiction, Gothic fiction, Horror fiction, Letter (message), Lost World (genre), Memoir, Novel, Novelette, Novella, Parody, Poetry, Science fiction, Short story, Weird fiction</Writing_Genre>
+      </Author>
+    </Authors>
+	 </Book>
+	<Book>
+    <Id>FreiburgBooks_21815+GoodReadsBooks_4109</Id>
+    <ISBN provenance="GoodReadsBooks_4109">284205007X</ISBN>
+    <Book_Name provenance="GoodReadsBooks_4109">mon enfance</Book_Name>
+    <Publication_Date provenance="FreiburgBooks_21815">1995</Publication_Date>
+    <Publisher provenance="">mille et une nuits</Publisher>
+    <Publication_Country provenance=""/>
+    <Pages provenance=""/>
+    <Genre provenance=""/>
+ <Rating provenance="">3.1875</Rating>
+    <Authors provenanec="GoodReadsBooks_4109+FreiburgBooks_21815">
+      <Author>
+        <Name>Hermann Hesse</Name>
+				<Birth_Date>1877-07-02</Birth_Date>
+				<Birth_Place>Calw, German Empire, Württemberg</Birth_Place>
+				<Occupation>Novelist, short story author, essayist, poet</Occupation>
+				<Writing_Genre>Autobiography, Existentialism, Historical fiction, Novel, Philosophical fiction, Short story collection</Writing_Genre>
+      </Author>
+    </Authors>
+  </Book>
+<Book>
+    <Id>FreiburgBooks_5543+GoodReadsBooks_8881</Id>
+    <ISBN provenance="GoodReadsBooks_8881">088001072X</ISBN>
+    <Book_Name provenance="FreiburgBooks_5543">a call: the tale of two passions </Book_Name>
+    <Publication_Date provenance="FreiburgBooks_5543">1985</Publication_Date>
+    <Publisher provenance="">harpercollins</Publisher>
+    <Publication_Country provenance=""/>
+    <Pages provenance=""/>
+    <Genre provenance=""/>
+       <Rating provenance="">2.6774999999999998</Rating>
+    	<Authors>
+			<Author>
+				<Name>Ford Madox Ford</Name>
+				<Birth_Date>1873-12-17</Birth_Date>
+				<Birth_Place>Merton (parish), Surrey</Birth_Place>
+				<Occupation>Novelist, and publisher</Occupation>
+				<Writing_Genre>List of science fiction novels, Novel</Writing_Genre>
+			</Author>
+		</Authors>
+  </Book>
+  <Book>
+    <Id>FreiburgBooks_22325+GoodReadsBooks_8851</Id>
+    <ISBN provenance="FreiburgBooks_22325">088038672X</ISBN>
+    <Book_Name provenance="FreiburgBooks_22325">streams of silver </Book_Name>
+    <Publication_Date provenance="FreiburgBooks_22325">1989</Publication_Date>
+    <Publisher provenance="">wizards of the coast</Publisher>
+    <Publication_Country provenance=""/>
+    <Pages provenance=""/>
+    <Genre provenance=""/>
+    <Rating provenance="">4.13</Rating>
+    <Authors>
+			<Author>
+				<Name>R. A. Salvatore</Name>
+				<Birth_Date>1959-01-20</Birth_Date>
+				<Birth_Place>Leominster, Massachusetts</Birth_Place>
+				<Occupation>Novelist</Occupation>
+				<Writing_Genre>Fantasy, Fantasy literature, Science fiction</Writing_Genre>
+			</Author>
+		</Authors>
+  </Book>
+    <Book>
+    <Id>FreiburgBooks_10053+GoodReadsBooks_13750</Id>
+    <ISBN provenance="GoodReadsBooks_13750">067943299X</ISBN>
+    <Book_Name provenance="GoodReadsBooks_13750">talk before sleep</Book_Name>
+    <Publication_Date provenance="FreiburgBooks_10053">1994</Publication_Date>
+    <Publisher provenance="">random house inc</Publisher>
+    <Publication_Country provenance=""/>
+    <Pages provenance=""/>
+    <Genre provenance=""/>
+  <Rating provenance="">2.955</Rating>
+    <Authors provenanec="FreiburgBooks_10053+GoodReadsBooks_13750">
+      <Author>
+        <Name>Elizabeth Berg</Name>
+				<Birth_Date>1948-12-02</Birth_Date>
+				<Birth_Place>Saint Paul, Minnesota</Birth_Place>
+				<Occupation>Novelist</Occupation>
+				<Writing_Genre>Novel</Writing_Genre>
+      </Author>
+    </Authors>
+  </Book>
+  <Book>
+    <Id>DBpedia_1479+FreiburgBooks_16785+GoodReadsBooks_14806</Id>
+    <ISBN provenance="FreiburgBooks_16785">067084134X</ISBN>
+    <Book_Name provenance="FreiburgBooks_16785">ravelstein</Book_Name>
+    <Publication_Date provenance="FreiburgBooks_16785">2000</Publication_Date>
+    <Publisher provenance="">viking press</Publisher>
+    <Publication_Country provenance=""/>
+    <Pages provenance=""/>
+    <Genre provenance=""/>
+       <Rating provenance="">2.6925</Rating>
+    <Authors provenanec="DBpedia_1479+GoodReadsBooks_14806+FreiburgBooks_16785">
+      <Author>
+				<Name>Saul Bellow</Name>
+				<Birth_Name>Solomon Bellows</Birth_Name>
+				<Birth_Date>1915-06-10</Birth_Date>
+				<Birth_Place>Canada, Lachine, Quebec, Quebec</Birth_Place>
+				<Occupation>Writer</Occupation>
+				<Writing_Genre>Picaresque novel</Writing_Genre>
+			</Author>
+    </Authors>
+  </Book>
+  <Book>
+    <Id>DBpedia_7730+GoodReadsBooks_5686</Id>
+    <ISBN provenance="DBpedia_7730">184232005X</ISBN>
+    <Book_Name provenance="DBpedia_7730">the enemy </Book_Name>
+    <Publication_Date provenance="DBpedia_7730">1977</Publication_Date>
+    <Publisher provenance="">william collins, sons</Publisher>
+    <Publication_Country provenance=""/>
+    <Pages provenance=""/>
+    <Genre provenance=""/>
+ <Rating provenance="">2.79</Rating>
+    <Authors provenanec="GoodReadsBooks_5686+DBpedia_7730">
+     <Author>
+				<Name>Desmond Bagley</Name>
+				<Birth_Date>1923-10-29</Birth_Date>
+				<Birth_Place>Kendal, Westmorland</Birth_Place>
+				<Occupation>journalist and novelist</Occupation>
+				<Writing_Genre>Novel, Thriller (genre)</Writing_Genre>
+			</Author>
+    </Authors>
+  </Book>
+  <Book>
+  
+    <Id>DBpedia_4110+FreiburgBooks_20073+GoodReadsBooks_13793</Id>
+    <ISBN provenance="GoodReadsBooks_13793">067940211X</ISBN>
+    <Book_Name provenance="DBpedia_4110">primal fear </Book_Name>
+    <Publication_Date provenance="FreiburgBooks_20073">1993</Publication_Date>
+    <Publisher provenance="">villard /random house inc</Publisher>
+    <Publication_Country provenance="DBpedia_4110">United States</Publication_Country>
+    <Pages provenance=""/>
+    <Genre provenance=""/>
+  <Rating provenance="">3.1275</Rating>
+    		<Authors>
+			<Author>
+				<Name>William Diehl</Name>
+				<Birth_Date>1924-12-04</Birth_Date>
+				<Birth_Place>Atlanta, Georgia (U.S. state), United States, Woodstock, Georgia</Birth_Place>
+				<Occupation>Author, Photojournalist</Occupation>
+				<Writing_Genre>Novel, Thriller (genre)</Writing_Genre>
+			</Author>
+		</Authors>
+  </Book>
+   <Book>
+    <Id>DBpedia_4312+GoodReadsBooks_14231</Id>
+    <ISBN provenance="GoodReadsBooks_14231">067166929X</ISBN>
+    <Book_Name provenance="GoodReadsBooks_14231">the peacekeepers </Book_Name>
+    <Publication_Date provenance="GoodReadsBooks_14231">1988</Publication_Date>
+    <Publisher provenance="">pocket books</Publisher>
+    <Publication_Country provenance="DBpedia_4312">United States</Publication_Country>
+    <Pages provenance=""/>
+    <Genre provenance=""/>
+    <Rating provenance="">2.43</Rating>
+    <Authors provenanec="GoodReadsBooks_14231+DBpedia_4312">
+     <Author>
+				<Name>Gene DeWeese</Name>
+				<Birth_Name>Thomas Eugene DeWeese</Birth_Name>
+				<Birth_Date>1934-01-31</Birth_Date>
+				<Birth_Place>Rochester, Indiana</Birth_Place>
+				<Occupation>Writer</Occupation>
+				<Writing_Genre>List of science fiction novels</Writing_Genre>
+			</Author>
+    </Authors>
+  </Book>
+  <Book>
+    <Id>FreiburgBooks_3839+GoodReadsBooks_14239</Id>
+    <ISBN provenance="GoodReadsBooks_14239">067166607X</ISBN>
+    <Book_Name provenance="FreiburgBooks_3839">bambi </Book_Name>
+    <Publication_Date provenance="FreiburgBooks_3839">1988</Publication_Date>
+    <Publisher provenance="">aladdin</Publisher>
+    <Publication_Country provenance=""/>
+    <Pages provenance=""/>
+    <Genre provenance=""/>
+ <Rating provenance="">1.96</Rating>
+    <Authors provenanec="FreiburgBooks_3839+GoodReadsBooks_14239">
+<Author>
+				<Name>Felix Salten</Name>
+				<Birth_Name>Siegmund Salzmann</Birth_Name>
+				<Birth_Date>1869-09-06</Birth_Date>
+				<Birth_Place>Budapest</Birth_Place>
+				<Occupation>Writer</Occupation>
+				<Writing_Genre>Children's literature, Fiction</Writing_Genre>
+			</Author>
+    </Authors>
+  </Book>
+  </Books>
